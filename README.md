@@ -1,8 +1,6 @@
 ## Table of Contents
 - [Introduction to Wordoid](#introducing-Wordoid)
 - [Demo](#live-demo)
-- [Part of Hacktoberfest 2023](#open-source-programs-this-repo-has-been-part-of)
-- [Contribution Guidelines](#contribution-guidelines)
 - [Local Setup](#how-to-set-up-Wordoid-for-development)
 
 ## Introducing Wordoid
