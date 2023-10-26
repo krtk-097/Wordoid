@@ -64,8 +64,6 @@ It runs the app in development mode. Open [http://localhost:5173](http://localho
 The page will reload when you make changes.
 
 ## Github Beginner Guide
-#### Are you a beginner in using Github?
-
 You can refer to the following articles on the basics of Git and Github and also contact me, in case you are stuck:
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-an-issue-or-pull-request)
